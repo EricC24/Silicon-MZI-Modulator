@@ -118,25 +118,25 @@ The figures below should be placed in a `figures/` directory alongside this READ
 
 ### Carrier-model comparison
 
-![Effective-index change versus reverse bias: TCAD and analytical PN depletion models](figures/PhaseB_delta_neff_TCAD_vs_analytical.png)
+![Effective-index change versus reverse bias: TCAD and analytical PN depletion models](Figures/PhaseB_delta_neff_TCAD_vs_analytical.png)
 
 ### Contact-region optical-loss decomposition
 
-![Modeled free-carrier optical loss split into access implant and junction components](figures/PhaseB_loss_decomposition.png)
+![Modeled free-carrier optical loss split into access implant and junction components](Figures/PhaseB_loss_decomposition.png)
 
 ### MZI transfer function
 
-![Simulated MZI transfer function with and without static pi phase offset](figures/PhaseD_MZI_transfer_function.png)
+![Simulated MZI transfer function with and without static pi phase offset](Figures/PhaseD_MZI_transfer_function.png)
 
 ### Electrical bandwidth
 
-![Calculated electro-optic frequency response for lumped and idealized traveling-wave configurations](figures/PhaseG_EO_bandwidth.png)
+![Calculated electro-optic frequency response for lumped and idealized traveling-wave configurations](Figures/PhaseG_EO_bandwidth.png)
 
 **Additional figures:**
 
-- [Loss per $\pi$ phase shift versus access geometry](figures/PhaseB_loss_over_Lpi.png)
-- [Access-implant standoff: optical loss versus electrical resistance](figures/PhaseE_access_gap_tradeoff.png)
-- [Junction-position and alignment sensitivity](figures/PhaseF_junction_position.png)
+- [Loss per $\pi$ phase shift versus access geometry](Figures/PhaseB_loss_over_Lpi.png)
+- [Access-implant standoff: optical loss versus electrical resistance](Figures/PhaseE_access_gap_tradeoff.png)
+- [Junction-position and alignment sensitivity](Figures/PhaseF_junction_position.png)
 
 ## Validation and numerical checks
 
